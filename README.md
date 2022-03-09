@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Fire](https://user-images.githubusercontent.com/44499749/148175047-aaabe9b4-d0f2-47d7-8c99-e7a1a79b2bd9.jpg)
+![Fire](https://user-images.githubusercontent.com/44499749/148175047-aaabe9b4-d0f2-47d7-8c99-e7a1a79b2bd9.jpg){: width="100" height="100"}
 
 <!--
 **seohyunjun/seohyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
