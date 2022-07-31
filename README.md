@@ -1,6 +1,7 @@
-### Hi there 👋
-### 🤔 🤔 🤔 🤔 
-<!-- ![Fire](https://user-images.githubusercontent.com/44499749/148175047-aaabe9b4-d0f2-47d7-8c99-e7a1a79b2bd9.jpg)-->
+### 2020 데이터 청년 캠퍼스(2020) 🏫
+### 에이콘 컴퍼니 (2021) - AI Research 🏢
+### 2021 데이터 아카데미 (2021) 🏫
+### 널리소프트 (2022) - DB Enginner 🏢
 
 <!--
 **seohyunjun/seohyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
