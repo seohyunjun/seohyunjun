@@ -1,7 +1,10 @@
+🌱 I’m currently learning Python Decorator
+<!--
 #### 2020 데이터 청년 캠퍼스(2020) 🏫
 #### 에이콘 컴퍼니 (2021) - AI Research 🏢
 #### 2021 데이터 아카데미 (2021) 🏫
 #### 널리소프트 (2022) - AI Enginner 🏢
+-->
 
 <!--
 **seohyunjun/seohyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
