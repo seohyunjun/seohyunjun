@@ -1,4 +1,4 @@
-🌱 I’m currently learning Computer Vision
+🌱 I’m currently learning pytorch.
 <!--
 #### 2020 데이터 청년 캠퍼스(2020) 🏫
 #### 에이콘 컴퍼니 (2021) - AI Research 🏢
