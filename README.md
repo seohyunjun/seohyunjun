@@ -1,6 +1,9 @@
 I’m currently learning 
 🌱 ASR model 
 🌱 RL
+
+![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun&show_icons=true&theme=dark)
+
 <!--
 #### 2020 데이터 청년 캠퍼스(2020) 🏫
 #### 에이콘 컴퍼니 (2021) - AI Research 🏢
