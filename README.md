@@ -1,6 +1,5 @@
-I’m currently learning 
-🌱 ASR model 
-🌱 RL
+I’m currently learning  
+🌱 NLP
 
 ![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun&show_icons=true&theme=dark)
 
