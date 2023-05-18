@@ -1,14 +1,8 @@
 I’m currently learning  
 🌱 NLP
 
-![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun)
-
-<!--
-#### 2020 데이터 청년 캠퍼스(2020) 🏫
-#### 에이콘 컴퍼니 (2021) - AI Research 🏢
-#### 2021 데이터 아카데미 (2021) 🏫
-#### 널리소프트 (2022) - AI Enginner 🏢
--->
+![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun&theme=dark)
+[![Hyunjun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seohyunjun)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **seohyunjun/seohyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
