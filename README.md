@@ -1,7 +1,7 @@
 I’m currently learning  
 🌱 NLP
 
-![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun&show_icons=true&theme=dark)
+![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun)
 
 <!--
 #### 2020 데이터 청년 캠퍼스(2020) 🏫
