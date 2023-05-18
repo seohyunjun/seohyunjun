@@ -2,7 +2,7 @@ I’m currently learning
 🌱 NLP
 
 ![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun&theme=dark)
-[![Hyunjun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seohyunjun)](https://github.com/anuraghazra/github-readme-stats)
+![Hyunjun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seohyunjun)
 
 <!--
 **seohyunjun/seohyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
