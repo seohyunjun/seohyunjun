@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=B's&nbsp;GitHub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=B's&nbsp;GitHub&fontSize=90)
 
 ![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun&theme=dark)
 
