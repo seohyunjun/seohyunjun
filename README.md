@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=B's&nbsp;GitHub&fontSize=90)
 
 ![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunjun&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunjun&langs_count=8)](https://github.com/seohyunjun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunjun&layout=compact&theme=dark)](https://github.com/seohyunjun/github-readme-stats)
 <!--
 **seohyunjun/seohyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
